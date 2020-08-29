@@ -22,3 +22,5 @@ p = [12, 20, 25]
 capacidade= 60
 n = len(v)
 print (mochila(capacidade,p,v,n))
+
+olar
