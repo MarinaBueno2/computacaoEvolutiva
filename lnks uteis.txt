@@ -1,7 +1,0 @@
-https://sites.google.com/site/mikescoderama/Home/0-1-knapsack-problem-in-p
-https://www.tutorialspoint.com/python-program-for-0-1-knapsack-problem
-https://gist.github.com/KaiyangZhou/71a473b1561e0ea64f97d0132fe07736
-https://dev.to/downey/solving-the-knapsack-problem-with-dynamic-programming-4hce
-https://www.geeksforgeeks.org/python-program-for-dynamic-programming-set-10-0-1-knapsack-problem/
-https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/
-https://www.youtube.com/watch?v=gSiBvA6am9Y
