@@ -145,10 +145,10 @@ class Knapsack(object):
 
 
 # teste da função
-weights = [12, 7, 11, 8, 9]
-profits = [24, 13, 23, 15, 16]
-opt = [0, 1, 1, 1, 0]
-C = 26
+weights = [18, 1, 15, 13, 2]
+profits = [7, 14, 28, 12, 24]
+opt = [1, 0, 0, 1, 0]
+C = 32
 population = 10
 
 k = Knapsack()
